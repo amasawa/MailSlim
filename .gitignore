@@ -1,0 +1,27 @@
+# Personal config (contains credentials)
+config.yaml
+
+# Intermediate data files
+*.json
+*.xlsx
+*.csv
+
+# Chrome profile (Outlook auth)
+.chrome_profile/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
+
+# Editor
+*.swp
+*~
+~$*
